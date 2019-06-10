@@ -4,6 +4,9 @@ chrome-jira-assistatnt
 Jira assistant is a chrome plugin that augments the Jira web ui to provide custom functionality not available out of the
 box. 
 
+# In action
+A short video of what the plugin does can be found here: https://okta.circlehd.com/play/jira-assistant-lFX8_M75p
+
 # Installation
 1. In Chrome go to More Tools -> Extensions
 2. Enable Developer Mode in the top right corner of the Extensions page
