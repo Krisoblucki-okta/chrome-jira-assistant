@@ -1,4 +1,4 @@
-chrome-jira-assistatnt
+chrome-jira-assistant
 ==
 
 Jira assistant is a chrome plugin that augments the Jira web ui to provide custom functionality not available out of the
