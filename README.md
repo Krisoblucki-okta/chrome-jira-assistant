@@ -10,7 +10,7 @@ A short video of what the plugin does can be found here: https://okta.circlehd.c
 # Installation
 1. In Chrome go to More Tools -> Extensions
 2. Enable Developer Mode in the top right corner of the Extensions page
-3. Drag and drop the chrome-jira-assistant folder onto the Extensions page
+3. Drag and drop the cloned chrome-jira-assistant folder onto the Extensions page
 4. Go to any Jira page which contains the RapidBoard
 
 # Features
