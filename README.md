@@ -17,3 +17,7 @@ A short video of what the plugin does can be found here: https://okta.circlehd.c
 v0.1
 ==
 - The RapidBoard line items will additionally bring in the first paragraph of the description into view
+
+# Requests
+==
+- Add a 'close issue' to each line item and only show it when the jira is open
